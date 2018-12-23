@@ -15,5 +15,4 @@ tool that you need :
 3 -wires
 4- LED
 
-project by : كريم الساعدي 
-https://www.facebook.com/kareem.peakatcho
+Project by : kareem ghazi faisel  https://www.facebook.com/kareem.peakatcho
