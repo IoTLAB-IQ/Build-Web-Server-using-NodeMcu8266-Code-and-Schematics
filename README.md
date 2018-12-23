@@ -9,4 +9,11 @@ This tutorial is a step-by-step guide that shows you how to build a standalone E
 5. Scroll down, select the ESP8266 board menu and install “esp8266 platform”, as shown in the figure below.
 6. Go to Tools > Board and choose your ESP8266 board. Then, re-open your Arduino IDE.
 
+tool that you need :
+
+1- arduino IDE 
+2- NodeMcu8266  (1)
+3 -wires
+4- LED
+
 
