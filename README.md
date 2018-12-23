@@ -1,4 +1,3 @@
-
 This tutorial is a step-by-step guide that shows you how to build a standalone ESP8266 Web Server that controls two outputs (two LEDs). This ESP8266 Web Server is mobile responsive and it can be accessed with any device that as a browser in your local network.
 1. Download and install the Arduino IDE on your operating system (some older versions won’t work).
 
@@ -12,8 +11,9 @@ This tutorial is a step-by-step guide that shows you how to build a standalone E
 tool that you need :
 
 1- arduino IDE 
-2- NodeMcu8266  (1)
+2- NodeMcu8266 
 3 -wires
 4- LED
 
-
+project by : كريم الساعدي 
+https://www.facebook.com/kareem.peakatcho
